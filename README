@@ -1,0 +1,9 @@
+This was not written by me. I found the source here: 
+
+http://www.macosxhints.com/article.php?story=20071029151619619
+
+and later on here:
+
+http://uselessgeek.com/youjiii/wiki/Make_a_downloaded_folder_and_everything_that_is_below_it_safe
+
+All I did was creating an Xcode project for it and putting my repo here on github. 
